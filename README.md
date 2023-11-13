@@ -23,11 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src=https://www.loom.com/share/4df9863d58fa4b888a16537612f9cbf1?sid=50b84404-4722-4b91-8355-b8feaf0aa467 title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=https://imgur.com/a/OVFm7kX title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! --> Loom
+<!-- Replace this with whatever GIF tool you used! --> LiceCap
 
-GIF created with ... Loom
+GIF created with ... LiceCap
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
